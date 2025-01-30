@@ -57,9 +57,10 @@ docker run -it --name faktory \
 
   # Note from author
   CS 415 Social Media Data Sci Pipeline
+  Group project with members: Emily Eng, Klara Veljkovic, Deepanshi Gaur, Joey Zhang
   This project was started at the start of the semester and has 3 parts to it:
   1. Creating a 4chan and Reddit continuous crawler and saving all collected data into a Postgres database (this repo)
-  2. Incorporating ModerateHateSpeech API into first implementation to flag toxic posts and comments
+  2. Incorporating ModerateHateSpeech API into first implementation to flag toxic posts and comments 
   3. Developing a web-based dashboard for interactive querying
   ## Limitation
   At some point in the semester, the remote desktops which were used to implement this project all got reset
